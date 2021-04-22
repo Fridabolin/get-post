@@ -1,0 +1,16 @@
+
+
+
+form {
+    display: flex;
+    flex-direction:column;
+    width: 40rem;
+    height: fit-content;
+    margin:10rem;
+}
+
+input , label {
+    padding:2px;
+    margin:2px;
+}
+
